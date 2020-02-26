@@ -5,6 +5,7 @@ public class testapexclass {
     public List<String> getList() {
         List<String> myList = new List<String>();
         myList.add('Hello');
+        myList.add('World');
         return myList;
     }
 }
